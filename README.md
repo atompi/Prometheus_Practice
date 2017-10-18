@@ -8,6 +8,6 @@ v0.0.1
 本书籍既适用于具备基础 Linux 知识的运维人员，也可供理解原理和开发自定义监控方案的运维开发人员参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。
 
 在线阅读：
-[GitBook](prometheus.atompi.com) 或 [GitHub](https://github.com/mission802/Prometheus_Practice/blob/master/SUMMARY.md)
+[GitBook](https://prometheus.atompi.com) 或 [GitHub](https://github.com/mission802/Prometheus_Practice/blob/master/SUMMARY.md)
 
 欢迎参与维护项目：[如何贡献](contribute.md)。
