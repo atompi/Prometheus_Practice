@@ -6,4 +6,6 @@
 * [Prometheus 简介](introduction/README.md)
     * [什么是 Prometheus](introduction/overview.md)
     * [为什么要用 Prometheus](introduction/why.md)
-* [基本概念](basic_concept/README.md)
+* [基础知识](basic_concept/README.md)
+    * [词汇表](basic_concept/GLOSSARY.md)
+    * [基本概念](basic_concept/CONCEPTS.md)
