@@ -65,10 +65,10 @@ Prometheus 客户端库提供了四种核心 metrics 数据类型。目前这些
 
 Counter 的客户端库使用文档：
 
-    * [Go](http://godoc.org/github.com/prometheus/client_golang/prometheus#Counter)
-    * [Java](https://github.com/prometheus/client_java/blob/master/simpleclient/src/main/java/io/prometheus/client/Counter.java)
-    * [Python](https://github.com/prometheus/client_python#counter)
-    * [Ruby](https://github.com/prometheus/client_ruby#counter)
+* [Go](http://godoc.org/github.com/prometheus/client_golang/prometheus#Counter)
+* [Java](https://github.com/prometheus/client_java/blob/master/simpleclient/src/main/java/io/prometheus/client/Counter.java)
+* [Python](https://github.com/prometheus/client_python#counter)
+* [Ruby](https://github.com/prometheus/client_ruby#counter)
 
 ### Gauge
 
@@ -78,10 +78,10 @@ Gauge 通常用于测量值，如温度或当前的内存使用情况，但也�
 
 Gauge 的客户端库使用文档：
 
-    * [Go](http://godoc.org/github.com/prometheus/client_golang/prometheus#Gauge)
-    * [Java](https://github.com/prometheus/client_java/blob/master/simpleclient/src/main/java/io/prometheus/client/Gauge.java)
-    * [Python](https://github.com/prometheus/client_python#gauge)
-    * [Ruby](https://github.com/prometheus/client_ruby#gauge)
+* [Go](http://godoc.org/github.com/prometheus/client_golang/prometheus#Gauge)
+* [Java](https://github.com/prometheus/client_java/blob/master/simpleclient/src/main/java/io/prometheus/client/Gauge.java)
+* [Python](https://github.com/prometheus/client_python#gauge)
+* [Ruby](https://github.com/prometheus/client_ruby#gauge)
 
 ### Histogram
 
@@ -89,4 +89,4 @@ Histogram （直方图）对观察结果进行采样（通常是请求持续时�
 
 metrics 名称为 `<basename>` 的直方图在收集期间公开多个时间序列：
 
-    * 观察桶的累计计数器显示为 `<basename>_bucket {le="<upper inclusive bound>"}`
+* 观察桶的累计计数器显示为 `<basename>_bucket {le="<upper inclusive bound>"}`
