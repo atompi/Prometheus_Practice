@@ -1,17 +1,3 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [基本概念](#基本概念)
-	- [DATA MODEL （数据模型）](#data-model-数据模型)
-		- [Metric names and labels （ metrics 名称和标签）](#metric-names-and-labels-metrics-名称和标签)
-		- [Samples （样本）](#samples-样本)
-		- [Notation （符号）](#notation-符号)
-	- [METRIC TYPES （ metrics 数据类型）](#metric-types-metrics-数据类型)
-		- [Counter （计数器）](#counter-计数器)
-		- [Gauge](#gauge)
-		- [Histogram](#histogram)
-
-<!-- /TOC -->
-
 # 基本概念
 
 ## DATA MODEL （数据模型）

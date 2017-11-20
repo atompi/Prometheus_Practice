@@ -1,30 +1,3 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [名词解释](#名词解释)
-	- [Alert](#alert)
-	- [Alertmanager](#alertmanager)
-	- [Bridge](#bridge)
-	- [Client library](#client-library)
-	- [Collector](#collector)
-	- [Direct instrumentation](#direct-instrumentation)
-	- [Endpoint](#endpoint)
-	- [Exporter](#exporter)
-	- [Instance](#instance)
-	- [Job](#job)
-	- [Notification](#notification)
-	- [Promdash](#promdash)
-	- [PromQL](#promql)
-	- [Pushgateway](#pushgateway)
-	- [Remote Read](#remote-read)
-	- [Remote Read Endpoint](#remote-read-endpoint)
-	- [Remote Write](#remote-write)
-	- [Remote Write Adapter](#remote-write-adapter)
-	- [Remote Write Endpoint](#remote-write-endpoint)
-	- [Silence](#silence)
-	- [Target](#target)
-
-<!-- /TOC -->
-
 # 名词解释
 
 ## Alert

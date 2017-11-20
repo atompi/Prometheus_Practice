@@ -9,3 +9,5 @@
 * [基础知识](basic_concept/README.md)
     * [名词解释](basic_concept/GLOSSARY.md)
     * [基本概念](basic_concept/CONCEPTS.md)
+* [安装部署](install/README.md)
+    * [开始部署](install/INSTALLATION.md)
